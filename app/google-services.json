@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624111171427",
+    "project_id": "kotlintest-36d25",
+    "storage_bucket": "kotlintest-36d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624111171427:android:d445c5a0d7b8d0fb504556",
+        "android_client_info": {
+          "package_name": "com.codewithandro.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjXm3AZarWfAFk3PHlDh-JQZ1UO_bG93Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
